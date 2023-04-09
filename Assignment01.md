@@ -11,7 +11,7 @@
 1)
 ![heads up screenshot](unnamed.jpg)
 
-[goto Heads Up Website]([http://npr.org](https://play.google.com/store/apps/details?id=com.wb.headsup&hl=en_US&gl=US&pli=1))
+[Heads Up Website](http://npr.org](https://play.google.com/store/apps/details?id=com.wb.headsup&hl=en_US&gl=US&pli=1)
 
 https://www.ucla.edu/
 
