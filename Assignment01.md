@@ -8,7 +8,8 @@
 
 ### Heads Up
 
-1)![heads up screenshot](unnamed.jpg)
+1)
+![heads up screenshot](unnamed.jpg)
 
 https://www.ucla.edu/
 
