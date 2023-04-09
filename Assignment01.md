@@ -8,7 +8,7 @@
 
 ### Heads Up
 
-1) ![heads up screenshot](unnamed.jpg)
+1)     ![heads up screenshot](unnamed.jpg)
 
 2) [Heads Up App Homepage](https://play.google.com/store/apps/details?id=com.wb.headsup&hl=en_US&gl=US&pli=1)
 
