@@ -1,4 +1,4 @@
-# DH110-Spring23
+# Assignment 01: Heuristic Evaluation- Disha Beeraladinni, DH110
 
 ## Disha Beeraladinni
 
