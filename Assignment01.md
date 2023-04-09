@@ -6,7 +6,7 @@
 
 #### In order to delve deeper, I thought of how the apps Heads Up and WhatsApp strongly bring in quality time and engagement in order to maintain the connectedness. In this assignment, I will be conducting a heuristic evaluation of these two apps. Heads Up offers an interactive way to play games with the family and Whatsaap offers various communication methods to stay connected in real time.
 
-#### assignment01
+### Heads Up
 
 This is the space for UX project for DH110
 
