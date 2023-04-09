@@ -11,7 +11,11 @@
 1)
 ![heads up screenshot](unnamed.jpg)
 
-2)[Heads Up App Homepage](https://play.google.com/store/apps/details?id=com.wb.headsup&hl=en_US&gl=US&pli=1)
+2) [Heads Up App Homepage](https://play.google.com/store/apps/details?id=com.wb.headsup&hl=en_US&gl=US&pli=1)
+
+3) The app Heads was originally created by Ellen DeGeneres and Warner Bros. Entertainment. The app is available on both iOS and Android devices and designed to be played with friends and family. The main objective of Heads Up is: players hold their mobile device up to their forehead, and the other players give clues to help them guess the word or phrase that appears on the screen. Players have to guess as many words or phrases as possible within a time limit. The app comes with a variety of categories to choose from, including movies, celebrities, animals, and etc. The app also includes features such as the ability to record and share gameplay videos, as well as the option to create custom decks with your own words or phrases.
+
+4) 
 
 https://www.ucla.edu/
 
