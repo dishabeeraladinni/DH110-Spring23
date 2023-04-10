@@ -44,14 +44,14 @@
 | :---                    |    :----:            |          ---: |
 |1. Visibility of system status: Turns blue when the text messages/media/documents have been read | Good: Clearly shows when the messages/media/documents have been delivered and turns blue instantly they have been read by the receiver. Also shows _typing_ when the user is typing a message or _busy_ when in a call on the app                |               |
 |2. Match between system and the real world: |                |               |
-|3. User control and freedom: |                |               |
-|4. Consistency and standards: |                |               |
+|3. User control and freedom: Allows users to navigate easy on the interface |                |               |
+|4. Consistency and standards:  |                |               |
 |5. Error prevention: |                |               |
 |6. Recognition rather than recall: |                |               |
 |7. Flexibility and efficiency of use: |                |               |
-|8. Aesthetic and minimalist design: |                |               |
+|8. Aesthetic and minimalist design: Uses clear and concise language to communicate information to users on the app interface |                |               |
 |9. Help users recognize, diagnose, and recover from errors: |                |               |
-|10. Help and documentation: |                |               |
+|10. Help and documentation: Any new features on the app are taught/released on the status feature of the app |                |               |
 
 
 
