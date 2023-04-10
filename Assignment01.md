@@ -14,11 +14,11 @@
 
 3) The app Heads was originally created by Ellen DeGeneres and Warner Bros. Entertainment. The app is available on both iOS and Android devices and designed to be played with friends and family. The main objective of Heads Up is: players hold their mobile device up to their forehead, and the other players give clues to help them guess the word or phrase that appears on the screen. Players have to guess as many words or phrases as possible within a time limit. The app comes with a variety of categories to choose from, including movies, celebrities, animals, and etc. The app also includes features such as the ability to record and share gameplay videos, as well as the option to create custom decks with your own words or phrases.
 
-4) Overall Evaluation: I believe this app is a great way to engage and connect with family members as it offers a wide range of categories and the ability to create custom decks. It is a great party game or icebreaker to 
+4) Overall Evaluation: I believe this app is a great way to engage and connect with family members as it offers a wide range of categories and the ability to create custom decks. It is a great party game or icebreaker in social settings enabling communication and strong engagement. The app is easy to navigate but can be limited to certain age groups as some topics may not be age appropriate. 
 
 ### WhatsApp
 
-1)
+1) 
 
 2)
 
