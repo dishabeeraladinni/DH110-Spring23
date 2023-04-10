@@ -45,8 +45,8 @@
 |1. Visibility of system status: Turns blue when the text messages/media/documents have been read | Good: Clearly shows when the messages/media/documents have been delivered and turns blue instantly they have been read by the receiver. Also shows _typing_ when the user is typing a message or _busy_ when in a call on the app                |               |
 |2. Match between system and the real world: |                |               |
 |3. User control and freedom: Allows users to navigate easy on the interface |                |               |
-|4. Consistency and standards:  |                |               |
-|5. Error prevention: |                |               |
+|4. Consistency and standards: Follow established design and interaction standards, such as using familiar icons and terminology, and maintaining consistency in the layout  |                |               |
+|5. Error prevention: Prevent errors by providing clear instructions and feedback to users |                |               |
 |6. Recognition rather than recall: |                |               |
 |7. Flexibility and efficiency of use: |                |               |
 |8. Aesthetic and minimalist design: Uses clear and concise language to communicate information to users on the app interface |                |               |
