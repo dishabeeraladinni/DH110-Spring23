@@ -42,7 +42,7 @@
 
 | Heuristic & Description | Heuristic Evaluation | Improvement
 | :---                    |    :----:            |          ---: |
-|1. Visibility of system status: |                |               |
+|1. Visibility of system status: Turns blue when the text messages/media/documents have been read |                |               |
 |2. Match between system and the real world: |                |               |
 |3. User control and freedom: |                |               |
 |4. Consistency and standards: |                |               |
