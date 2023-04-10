@@ -42,7 +42,7 @@
 
 | Heuristic & Description | Heuristic Evaluation | Improvement
 | :---                    |    :----:            |          ---: |
-|1. Visibility of system status: Turns blue when the text messages/media/documents have been read | Good: Clearly shows when the messages/media/documents have been delivered and turns blue instantly they have been read by the receiver. Also shows _typing_ when the user is typing a message or in call on the app                |               |
+|1. Visibility of system status: Turns blue when the text messages/media/documents have been read | Good: Clearly shows when the messages/media/documents have been delivered and turns blue instantly they have been read by the receiver. Also shows _typing_ when the user is typing a message or _busy_ when in a call on the app                |               |
 |2. Match between system and the real world: |                |               |
 |3. User control and freedom: |                |               |
 |4. Consistency and standards: |                |               |
