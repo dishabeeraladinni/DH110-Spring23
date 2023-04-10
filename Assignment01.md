@@ -16,6 +16,20 @@
 
 4) Overall Evaluation: I believe this app is a great way to engage and connect with family members as it offers a wide range of categories and the ability to create custom decks. It is a great party game or icebreaker in social settings enabling communication and strong engagement. The app is easy to navigate but can be limited to certain age groups as some topics may not be age appropriate. 
 
+
+| Heuristic & Description | Heuristic Evaluation | Improvement
+| :---                    |    :----:            |          ---: |
+|1. Visibility of system status: |                |               |
+|2. Match between system and the real world: |                |               |
+|3. User control and freedom: |                |               |
+|4. Consistency and standards: |                |               |
+|5. Error prevention: |                |               |
+|6. Recognition rather than recall: |                |               |
+|7. Flexibility and efficiency of use: |                |               |
+|8. Aesthetic and minimalist design: |                |               |
+|9. Help users recognize, diagnose, and recover from errors: |                |               |
+|10. Help and documentation: |                |               |
+
 ### WhatsApp
 
 1) ![heads up screenshot](download.jpg)
