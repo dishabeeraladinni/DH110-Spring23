@@ -19,16 +19,16 @@
 
 | Heuristic & Description | Heuristic Evaluation | Improvement
 | :---                    |    :----:            |          ---: |
-|1. Visibility of system status: |                |               |
+|1. Visibility of system status: Provide users the status of the game and what each button on the interface performs |                |               |
 |2. Match between system and the real world: |                |               |
-|3. User control and freedom: |                |               |
-|4. Consistency and standards: |                |               |
-|5. Error prevention: |                |               |
-|6. Recognition rather than recall: |                |               |
-|7. Flexibility and efficiency of use: |                |               |
+|3. User control and freedom: Allow users to navigate the app easily |                |               |
+|4. Consistency and standards: Follow established design and interaction standards, such as using familiar icons and terminology, and maintaining consistency in the layout  |                |               |
+|5. Error prevention: Prevent errors by providing clear instructions and feedback to users |                |               |
+|6. Recognition rather than recall:  |                |               |
+|7. Flexibility and efficiency of use: Customize their usage of the app based on their preference |                | Good: Allows users to choose their preferred category, difficulty and time limit              |
 |8. Aesthetic and minimalist design: |                |               |
 |9. Help users recognize, diagnose, and recover from errors: |                |               |
-|10. Help and documentation: |                |               |
+|10. Help and documentation: Provide clear instructions to help users navigating the app |                |               |
 
 ### WhatsApp
 
@@ -51,7 +51,7 @@
 |7. Flexibility and efficiency of use: |                |               |
 |8. Aesthetic and minimalist design: Uses clear and concise language to communicate information to users on the app interface |                |               |
 |9. Help users recognize, diagnose, and recover from errors: |                |               |
-|10. Help and documentation:  | Good: Any new features on the app are taught/released on the status feature of the app                       |       |
+|10. Help and documentation: Provide clear instructions to help users navigating the app  | Good: Any new features on the app are taught/released on the status feature of the app                       |       |
 
 
 
