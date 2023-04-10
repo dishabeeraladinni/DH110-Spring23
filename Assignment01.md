@@ -28,9 +28,16 @@
 
 | Heuristic & Description | Heuristic Evaluation | Improvement
 | :---                    |    :----:            |          ---: |
-|1: Visibility of system status: |                |               |
-
-
+|1. Visibility of system status: |                |               |
+|2. Match between system and the real world: |                |               |
+|3. Visibility of system status: |                |               |
+|4. Visibility of system status: |                |               |
+|5. Visibility of system status: |                |               |
+|6. Visibility of system status: |                |               |
+|7. Visibility of system status: |                |               |
+|8. Visibility of system status: |                |               |
+|9. Visibility of system status: |                |               |
+|10. Visibility of system status: |                |               |
 https://www.ucla.edu/
 
 [go to ucla](https://www.ucla.edu/)
