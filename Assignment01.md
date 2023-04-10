@@ -25,7 +25,7 @@
 |4. Consistency and standards: Follow established design and interaction standards, such as using familiar icons and terminology, and maintaining consistency in the layout  |                |               |
 |5. Error prevention: Prevent errors by providing clear instructions and feedback to users |                |               |
 |6. Recognition rather than recall:  |                |               |
-|7. Flexibility and efficiency of use: Customize their usage of the app based on their preference |                | Good: Allows users to choose their preferred category, difficulty and time limit              |
+|7. Flexibility and efficiency of use: Customize their usage of the app based on their preference | Good: Allows users to choose their preferred category, difficulty and time limit               |               |
 |8. Aesthetic and minimalist design: |                |               |
 |9. Help users recognize, diagnose, and recover from errors: |                |               |
 |10. Help and documentation: Provide clear instructions to help users navigating the app |                |               |
