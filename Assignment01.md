@@ -26,8 +26,8 @@
 
 4) Overall Evaluation: I believe this app is very useful in helping family members staying connected all through out the world. As it also ensures end-to-end encryption, Facebook being its parent company brings privacy into question. It is a plus that this app is a free service, however it does require internet connection which can be difficult in areas with poor connectivity. 
 
-| ##Heuristic & Description | ##Heuristic Evaluation | ##Improvement
-| :---                      |    :----:              |          ---: |
+| Heuristic & Description | Heuristic Evaluation | Improvement
+| :---                    |    :----:            |          ---: |
 
 https://www.ucla.edu/
 
