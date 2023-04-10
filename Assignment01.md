@@ -51,7 +51,7 @@
 |7. Flexibility and efficiency of use: |                |               |
 |8. Aesthetic and minimalist design: Uses clear and concise language to communicate information to users on the app interface |                |               |
 |9. Help users recognize, diagnose, and recover from errors: |                |               |
-|10. Help and documentation: Any new features on the app are taught/released on the status feature of the app |                |               |
+|10. Help and documentation:  |                | Good: Any new features on the app are taught/released on the status feature of the app              |
 
 
 
