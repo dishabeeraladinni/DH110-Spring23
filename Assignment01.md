@@ -28,6 +28,8 @@
 
 | Heuristic & Description | Heuristic Evaluation | Improvement
 | :---                    |    :----:            |          ---: |
+|1: Visibility of system status: |                |               |
+
 
 https://www.ucla.edu/
 
