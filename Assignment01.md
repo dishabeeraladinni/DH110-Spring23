@@ -18,9 +18,9 @@
 
 ### WhatsApp
 
-1) 
+1) ![heads up screenshot](download.jpg)
 
-2)
+2) [WhatsApp Homepage](https://www.whatsapp.com/)
 
 3)
 
