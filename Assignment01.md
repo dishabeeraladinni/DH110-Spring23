@@ -22,9 +22,9 @@
 
 2) [WhatsApp Homepage](https://www.whatsapp.com/)
 
-3)
+3) WhatsApp is a messaging app that allows users to send/receive text messages, photos/videos, documents and make video/audio calls for free and with end-to-end encryption. This allows users to have their text messages and calls to be secured and only accessed by the sender and receiver. This app was originally created in 2009 by Jan Koum and Brian Acton and is available on both iOS and Android devices.
 
-4) Overall Evaluation: 
+4) Overall Evaluation: I believe this app is very useful in helping family members staying connected all through out the world. As it also ensures end-to-end encryption, Facebook being its parent company brings privacy into question. It is a plus that this app is a free service, however it does require internet connection which can be difficult in areas with poor connectivity. 
 
 https://www.ucla.edu/
 
