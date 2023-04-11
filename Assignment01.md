@@ -30,6 +30,8 @@
 |9. Help users recognize, diagnose, and recover from errors: Error messages/problems should be expressed and suggest a solution to solve them |                |               |
 |10. Help and documentation: Provide clear instructions to help users navigating the app |                |               |
 
+Severity Rating:
+
 ### WhatsApp
 
 1) ![WhatsApp screenshot](download.jpg)
@@ -53,8 +55,7 @@
 |9. Help users recognize, diagnose, and recover from errors: Error messages/problems should be expressed and suggest a solution to solve them  |                |               |
 |10. Help and documentation: Provide clear instructions to help users navigating the app  | Good: Any new features on the app are taught/released on the status feature of the app                       |       |
 
-
-
+Severity Rating:
 
 https://www.ucla.edu/
 
