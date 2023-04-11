@@ -19,7 +19,7 @@
 
 | Heuristic & Description | Heuristic Evaluation | Improvement
 | :---                    |    :----:            |          ---: |
-|1. Visibility of system status: Provide users the status of the game and what each button on the interface performs | Good:                |               |
+|1. Visibility of system status: Provide users the status of the game and what each button on the interface performs | Good: Turns green when the player successfully guesses the word and red otherwise; indicated when the time is up.                | No Improvement: The green and red are obvious colors making it clear for the users/players of what the game does.              |
 |2. Match between system and the real world: The app should speak the user's language and general knowledge | Good: It offers categories and difficulty level based on the user's preference. It also allows them to choose the category and time limit they prefer.               | No Improvement: This is helpful as it makes the game very entertaining and engaging with preferred choices.              |
 |3. User control and freedom: Allow users to navigate the app easily |                |               |
 |4. Consistency and standards: Follow established design and interaction standards, such as using familiar icons and terminology, and maintaining consistency in the layout  |                |               |
