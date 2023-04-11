@@ -60,8 +60,8 @@ Severity Rating:
 
 Severity Rating:
 1. Top Priority: Visibility of system status; Match between system and the real world; Aesthetic and minimalist design; Consistency and standards
-2. Important to fix: Recognition rather than recall
-3. Small Inconvenience: Flexibility and efficiency of use; Flexibility and efficiency of use
+2. Important to fix: Recognition rather than recall; User control and freedom
+3. Small Inconvenience: Flexibility and efficiency of use; 
 
 https://www.ucla.edu/
 
