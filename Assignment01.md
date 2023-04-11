@@ -63,6 +63,3 @@ Severity Rating:
 2. Important to fix: Recognition rather than recall; User control and freedom
 3. Small Inconvenience: Flexibility and efficiency of use; 
 
-https://www.ucla.edu/
-
-[go to ucla](https://www.ucla.edu/)
