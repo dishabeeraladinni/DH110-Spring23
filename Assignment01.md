@@ -31,9 +31,9 @@
 |10. Help and documentation: Provide clear instructions to help users navigating the app | Good: The app provides a link to a support page on the developer's website which includes frequently asked questions. Also includes a help section that contains detailed instructions on how to play the game.                 | Improvement: Having a question bot/support page on the app would make it helpful to anser any questions.               |
 
 Severity Rating:
-1. Top Priority:
-2. Important to fix:
-3. Small Inconvenience: 
+1. Top Priority: Visibility of system status; Aesthetic and minimalist design; User control and freedom; Match between system and the real world; Recognition rather than recall
+2. Important to fix:  Help users recognize, diagnose; and recover from errors, Help and documentation; Error prevention
+3. Small Inconvenience: Error prevention
 
 ### WhatsApp
 
