@@ -20,19 +20,19 @@
 | Heuristic & Description | Heuristic Evaluation | Improvement
 | :---                    |    :----:            |          ---: |
 |1. Visibility of system status: Provide users the status of the game and what each button on the interface performs |                |               |
-|2. Match between system and the real world: |                |               |
+|2. Match between system and the real world: The app should speak the user's language and general knowledge |                |               |
 |3. User control and freedom: Allow users to navigate the app easily |                |               |
 |4. Consistency and standards: Follow established design and interaction standards, such as using familiar icons and terminology, and maintaining consistency in the layout  |                |               |
 |5. Error prevention: Prevent errors by providing clear instructions and feedback to users |                |               |
-|6. Recognition rather than recall:  |                |               |
-|7. Flexibility and efficiency of use: Customize their usage of the app based on their preference | Good: Allows users to choose their preferred category, difficulty and time limit               |               |
+|6. Recognition rather than recall: Minimize user's memory in navigating the interface and app should be easy to navigate  |                |               |
+|7. Flexibility and efficiency of use: Customize the usage of the app based on user's preference | Good: Allows users to choose their preferred category, difficulty and time limit               |               |
 |8. Aesthetic and minimalist design: Uses clear and concise language to communicate information to users on the app interface  |                |               |
 |9. Help users recognize, diagnose, and recover from errors: Error messages/problems should be expressed and suggest a solution to solve them |                |               |
 |10. Help and documentation: Provide clear instructions to help users navigating the app |                |               |
 
 ### WhatsApp
 
-1) ![heads up screenshot](download.jpg)
+1) ![WhatsApp screenshot](download.jpg)
 
 2) [WhatsApp Homepage](https://www.whatsapp.com/)
 
@@ -43,14 +43,14 @@
 | Heuristic & Description | Heuristic Evaluation | Improvement
 | :---                    |    :----:            |          ---: |
 |1. Visibility of system status: Turns blue when the text messages/media/documents have been read | Good: Clearly shows when the messages/media/documents have been delivered and turns blue instantly they have been read by the receiver. Also shows _typing_ when the user is typing a message or _busy_ when in a call on the app                |               |
-|2. Match between system and the real world: |                |               |
+|2. Match between system and the real world: The app should speak the user's language and general knowledge |                |               |
 |3. User control and freedom: Allows users to navigate easy on the interface |                |               |
 |4. Consistency and standards: Follow established design and interaction standards, such as using familiar icons and terminology, and maintaining consistency in the layout  |                |               |
 |5. Error prevention: Prevent errors by providing clear instructions and feedback to users |                |               |
-|6. Recognition rather than recall: |                |               |
-|7. Flexibility and efficiency of use: |                |               |
+|6. Recognition rather than recall: Minimize user's memory in navigating the interface and app should be easy to navigate |                |               |
+|7. Flexibility and efficiency of use: Customize the usage of the app based on user's preference  |                |               |
 |8. Aesthetic and minimalist design: Uses clear and concise language to communicate information to users on the app interface |                |               |
-|9. Help users recognize, diagnose, and recover from errors: |                |               |
+|9. Help users recognize, diagnose, and recover from errors: Error messages/problems should be expressed and suggest a solution to solve them  |                |               |
 |10. Help and documentation: Provide clear instructions to help users navigating the app  | Good: Any new features on the app are taught/released on the status feature of the app                       |       |
 
 
