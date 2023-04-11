@@ -55,13 +55,13 @@ Severity Rating:
 |6. Recognition rather than recall: Minimize user's memory in navigating the interface and app should be easy to navigate | Good: There includes  4 main tabs: Chat, Status, Calls, and Settings making it easier switch between each section. Bad: Once in the Settings section, there are many subsections for the privacy feature, which may be difficult for non-tech users to go through all the questions regarding privacy.               | Improvement: In the privacy subsection, it can be helpful to include a gif or visual to show what each privacy setting can do.               |
 |7. Flexibility and efficiency of use: Customize the usage of the app based on user's preference  | Good: Can customize the chat wallpaper to user's preference. Bad: Doesn't provide an option to select the size and font of the chat                | Improvement: Provide shortcuts to perform frequent actions                |
 |8. Aesthetic and minimalist design: Uses clear and concise language to communicate information to users on the app interface | Good: Follows a white and green color scheme giving it a modern look and the phone inside the text message logo makes it easy to navigate on the app screen. Includes 4 main tabs: Chat, Status, Calls, and Settings making it easier switch between each section.       | No Improvement: The logo is creative as it follows the app's main purpose. The colors are bright to capture the user's attention.               |
-|9. Help users recognize, diagnose, and recover from errors: Error messages/problems should be expressed and suggest a solution to solve them  | Good: Always asks users to provide feedback after a voice/video call, and will get back to a solution for any expressed error.   | Improvement: This is helpful for WhatsApp as they can make more edits/versions based on the feedback.              |
+|9. Help users recognize, diagnose, and recover from errors: Error messages/problems should be expressed and suggest a solution to solve them  | Good: Always asks users to provide feedback after a voice/video call, and will get back to a solution for any expressed error.   | No Improvement: This is helpful for WhatsApp as they can make more edits/versions based on the feedback.              |
 |10. Help and documentation: Provide clear instructions to help users navigating the app  | Good: Any new features on the app are taught/released on the status feature of the app                   | No Impprovement: This is helpful as users are given a tutorial in navigating any new features and allows to watch them at the user's pace.       |
 
 Severity Rating:
-1. Top Priority:
-2. Important to fix:
-3. Small Inconvenience: 
+1. Top Priority: Visibility of system status; Match between system and the real world; Aesthetic and minimalist design; Consistency and standards
+2. Important to fix: Recognition rather than recall
+3. Small Inconvenience: Flexibility and efficiency of use; Flexibility and efficiency of use
 
 https://www.ucla.edu/
 
