@@ -26,8 +26,8 @@
 |5. Error prevention: Prevent errors by providing clear instructions and feedback to users |                |               |
 |6. Recognition rather than recall:  |                |               |
 |7. Flexibility and efficiency of use: Customize their usage of the app based on their preference | Good: Allows users to choose their preferred category, difficulty and time limit               |               |
-|8. Aesthetic and minimalist design: |                |               |
-|9. Help users recognize, diagnose, and recover from errors: |                |               |
+|8. Aesthetic and minimalist design: Uses clear and concise language to communicate information to users on the app interface  |                |               |
+|9. Help users recognize, diagnose, and recover from errors: Error messages/problems should be expressed and suggest a solution to solve them |                |               |
 |10. Help and documentation: Provide clear instructions to help users navigating the app |                |               |
 
 ### WhatsApp
