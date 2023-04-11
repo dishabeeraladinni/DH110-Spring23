@@ -52,7 +52,7 @@ Severity Rating:
 |6. Recognition rather than recall: Minimize user's memory in navigating the interface and app should be easy to navigate |                |               |
 |7. Flexibility and efficiency of use: Customize the usage of the app based on user's preference  | Good: Can customize the chat wallpaper to user's preference. Bad: Doesn't provide an option to select the size and font of the chat                | Improvement: Provide shortcuts to perform frequent actions                |
 |8. Aesthetic and minimalist design: Uses clear and concise language to communicate information to users on the app interface |                |               |
-|9. Help users recognize, diagnose, and recover from errors: Error messages/problems should be expressed and suggest a solution to solve them  | Good: Always asks users to provide feedback after a voice/video call, and will get back to a solution for any expressed error               | Improvement: This is helpful for WhatsApp as they can make more edits/versions based on the feedback              |
+|9. Help users recognize, diagnose, and recover from errors: Error messages/problems should be expressed and suggest a solution to solve them  | Good: Always asks users to provide feedback after a voice/video call, and will get back to a solution for any expressed error   | Improvement: This is helpful for WhatsApp as they can make more edits/versions based on the feedback              |
 |10. Help and documentation: Provide clear instructions to help users navigating the app  | Good: Any new features on the app are taught/released on the status feature of the app                       |        |
 
 Severity Rating:
