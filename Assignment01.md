@@ -27,10 +27,13 @@
 |6. Recognition rather than recall: Minimize user's memory in navigating the interface and app should be easy to navigate  | Good: When a user tilts their phone up, the app displays an arrow pointing up to indicate that they are skipping a card. When a user tilts their phone down, the app displays an arrow pointing down to indicate that they are guessing a word or phrase correctly               | No Improvement: This is helpful for the player as they are guided to whether they successfully guessed the card or not. |
 |7. Flexibility and efficiency of use: Customize the usage of the app based on user's preference | Good: Allows users to choose their preferred category, difficulty and time limit               | No Improvement: This helps users to enjoy their time when playing the app.                |
 |8. Aesthetic and minimalist design: Uses clear and concise language to communicate information to users on the app interface  | Good: Utilizes a simple color scheme of white, black, and blue. The font is clear and easy to read, and the icons are intuitive and easy to understand. The animations and the sound effects makes the game more engaging and fun.               | No Improvement: This elevates the quality time of the group of players playing Heads Up; especially with family members/friends.               |
-|9. Help users recognize, diagnose, and recover from errors: Error messages/problems should be expressed and suggest a solution to solve them |                 |                |
-|10. Help and documentation: Provide clear instructions to help users navigating the app | Good: The app provides a link to a support page on the developer's website which includes frequently asked questions. Also includes a help section that contains detailed instructions on how to play the game.                 | Improvement: Having a question bot would make it helpful to anser any questions.               |
+|9. Help users recognize, diagnose, and recover from errors: Error messages/problems should be expressed and suggest a solution to solve them | Bad: Doesn't incllude a question bot on the app.              | Improvement: Including a bot would be helpful for the players in receiving immediate solutions.               |
+|10. Help and documentation: Provide clear instructions to help users navigating the app | Good: The app provides a link to a support page on the developer's website which includes frequently asked questions. Also includes a help section that contains detailed instructions on how to play the game.                 | Improvement: Having a question bot/support page on the app would make it helpful to anser any questions.               |
 
 Severity Rating:
+1. Top Priority:
+2. Important to fix:
+3. Small Inconvenience: 
 
 ### WhatsApp
 
@@ -56,6 +59,9 @@ Severity Rating:
 |10. Help and documentation: Provide clear instructions to help users navigating the app  | Good: Any new features on the app are taught/released on the status feature of the app                   | No Impprovement: This is helpful as users are given a tutorial in navigating any new features and allows to watch them at the user's pace.       |
 
 Severity Rating:
+1. Top Priority:
+2. Important to fix:
+3. Small Inconvenience: 
 
 https://www.ucla.edu/
 
