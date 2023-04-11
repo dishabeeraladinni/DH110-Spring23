@@ -45,7 +45,7 @@ Severity Rating:
 | Heuristic & Description | Heuristic Evaluation | Improvement
 | :---                    |    :----:            |          ---: |
 |1. Visibility of system status: Turns blue when the text messages/media/documents have been read | Good: Clearly shows when the messages/media/documents have been delivered and turns blue instantly they have been read by the receiver. Also shows _typing_ when the user is typing a message or _busy_ when in a call on the app                |               |
-|2. Match between system and the real world: The app should speak the user's language and general knowledge |                |               |
+|2. Match between system and the real world: The app should speak the user's language and general knowledge | Good: Offers the option of selecting the user's language and using the app in the user's preferred language.           | No Improvement: This is helpful as it allows non English speakers to navigate the app in their preferred language and connect with their family/friends.              |
 |3. User control and freedom: Allows users to navigate easy on the interface |                |               |
 |4. Consistency and standards: Follow established design and interaction standards, such as using familiar icons and terminology, and maintaining consistency in the layout  |                |               |
 |5. Error prevention: Prevent errors by providing clear instructions and feedback to users |                |               |
