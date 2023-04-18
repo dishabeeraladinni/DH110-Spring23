@@ -8,10 +8,10 @@ The Charades app is a mobile application that allows users to play the classic g
 
 During the heuristic evaluation on the app Charades, there included several usability concerns.
 
-*First, the “How to Play” page is not clearly visible on the homepage of the app.
-~Second, there is a lack of visuals during the game. For example, the scoreboard isn’t visible during the game and doesn’t prompt red/green if the word is correctly guessed. 
-~Third, the app doesn’t bring much to the table in personalization. If the user wants to customize his/her deck, there doesn’t include an option. 
-~Fourth, the user is only limited to ten categories and is required to pay for additional ones listed. 
+First, the “How to Play” page is not clearly visible on the homepage of the app.
+Second, there is a lack of visuals during the game. For example, the scoreboard isn’t visible during the game and doesn’t prompt red/green if the word is correctly guessed. 
+Third, the app doesn’t bring much to the table in personalization. If the user wants to customize his/her deck, there doesn’t include an option. 
+Fourth, the user is only limited to ten categories and is required to pay for additional ones listed. 
 
 
 With these concerns, I will conduct a usability test to evaluate how the app enhances or hinders the user's ability to conduct certain tasks. A usability test is utilized to examine the effectiveness, efficiency, and satisfaction of the application. In Task 1, I will ask the user to navigate to the “How to Play” section of the app. This task is designed to understand the ability of the user to promptly land in the “How to Play” section of the app and observe the difficulty/feedback expressed by the user. In Task 2, I will ask the user to play the game for forty five seconds using the countries category. This task is designed to observe the efficiency of starting a game and the satisfaction/emotions expressed during the game. This task delves into whether the user felt the game was an enjoyable and interactive experience. In Task 3, I will ask the user to create their own deck/category or pick their favorite deck with the options provided. This task is designed to see the user was satisfied with personalizing their options. With this UT testing, I hope to achieve the feedback to improve the app's usability from the user's perspective.
