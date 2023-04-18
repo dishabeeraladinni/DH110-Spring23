@@ -22,7 +22,10 @@ The pilot usability test will be conducted in a quiet dorm room. The moderator a
 
 ### Link to the UT Video
 
+Since the zoom software didn't enable dual sharing side by side, there are two files. The first one is a link to the UT Testing and the second one is the screen recording of the tasks performed on the app on the phone. To follow the screen recording, you can open both links as place them side by side to follow along. 
+
 [Video Link](https://photos.app.goo.gl/q3WHsQQZ79VZny1v7)
+
 [Phone Screen Recording](https://photos.app.goo.gl/fBJpnyMyQSWYniWB8)
 
 
