@@ -20,5 +20,9 @@ The pilot usability test will be conducted in a quiet dorm room. The moderator a
 
 [Survey Link](https://forms.gle/UCPSEwRKXgRmogQT8)
 
+### Link to the UT Video
+
+[Video Link](https://photos.app.goo.gl/q3WHsQQZ79VZny1v7)
+
 
 
