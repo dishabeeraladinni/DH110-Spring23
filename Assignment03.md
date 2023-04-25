@@ -37,7 +37,7 @@
 
 #### Where would the users do that activity? 
 
-Users would do this activty on mobile devices as these devices have become the powerhouse to accessing all kinds of information on the tip of our hands. Since it is an app, users can play these games from almost anywhere as long as there is internet connectivity. This includes being at home, work, school, vacation, etc. It is like sending a text, however in game format.  
+* Users would do this activty on mobile devices as these devices have become the powerhouse to accessing all kinds of information on the tip of our hands. Since it is an app, users can play these games from almost anywhere as long as there is internet connectivity. This includes being at home, work, school, vacation, etc. It is like sending a text, however in game format.  
 
 #### What would the users usually do in order to complete that activity? 
 * The users would follow these steps:
