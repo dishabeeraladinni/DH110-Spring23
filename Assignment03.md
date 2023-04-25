@@ -77,7 +77,7 @@
 
 ### Some interesting quotes/insights from the interview:
 
-#### 1. User's preference of the Games Displayed (00:13:18.430 --> 00:13:49.590)
+#### 1. User's preference of how the games should be displayed (00:13:18.430 --> 00:13:49.590)
 I would wish for more games, or like, maybe like, sort it out according to category. Like a card game, or like a marble game, or a real-life imitation game. Right now, there is a lot going on [and] my eyes are going everywhere. 
 
 #### 2. These tiny games opened up a new perspective (00:20:21.250 --> 00:20:48.270)
@@ -95,9 +95,7 @@ It provides entertainment for sure, and something that I can use if like. Oh, if
 
 ### ✅ Step 6: Reflection
 
-The contextual inquiry process felt more organic and natural in terms of understanding the user's behavior, preferences, and needs. When comparing it to the usability testing, the contextual inquiry process offers first-hand data and open handed questions, which is more accurate than survey data. For example, during the usability testing, users were asked to select a scale of answers (most likey, less likely, neither, etc), in which doesn't provide the freedom of expressing how they truly felt whereas in the contextual inquiry process, it helps gain a deeper understanding of a user's preferences. Most of the points articulated by the participant alligned with mine, however I believe I did give away some bias when questioning the participant. For example, 
-
-rating in ut testing vs non rating
-more open handed questions
+The contextual inquiry process felt more organic and natural in terms of understanding the user's behavior, preferences, and needs. When comparing it to the usability testing, the contextual inquiry process offers first-hand data and open handed questions, which is more accurate than survey data. For example, during the usability testing, users were asked to select a scale of answers (most likey, less likely, neither, etc), in which doesn't provide the freedom of expressing how they truly felt whereas in the contextual inquiry process, it helps gain a deeper understanding of a user's preferences. Most of the points articulated by the participant alligned with mine, however I believe I did give away some bias when questioning the participant. For example, in my question, "What do you look at before selecting a game?", with a followup "The colors? The graphics? The name? The instructions?" gave a biased approach for the particpant to answer the question as it already filtered out the options. 
+ 
 
 
