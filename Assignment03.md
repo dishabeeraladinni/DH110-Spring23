@@ -43,7 +43,7 @@ What are the characteristics of users?
 
 ### ✅ Step 5: Conducting the Research
 
-Please find the recording of the interview [here](https://photos.app.goo.gl/ztTBFCK9SHNm7XoN7)
+* Please find the recording of the interview [here](https://photos.app.goo.gl/ztTBFCK9SHNm7XoN7)
 
 ### Some interesting quotes/insights from the interview:
 
