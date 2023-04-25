@@ -97,4 +97,7 @@ It provides entertainment for sure, and something that I can use if like. Oh, if
 
 The contextual inquiry process 
 
+rating in ut testing vs non rating
+more open handed questions
+
 
