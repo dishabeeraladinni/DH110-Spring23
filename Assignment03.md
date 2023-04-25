@@ -34,7 +34,7 @@
 
 ### ✅ Step 4: Observation/Interview Guide
 
-* Please find the link to the interview script [Script](https://docs.google.com/document/d/1GhdwZYFFsc5Pg_nkjIlgUQl9UEVAmla3BTuQa-U41QY/edit?usp=sharing)
+* Please find the link to the interview script [here](https://docs.google.com/document/d/1GhdwZYFFsc5Pg_nkjIlgUQl9UEVAmla3BTuQa-U41QY/edit?usp=sharing)
 
 ### ✅ Step 5: Conducting the Research
 
