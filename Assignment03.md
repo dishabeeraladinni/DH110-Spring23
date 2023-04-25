@@ -61,9 +61,9 @@
 * Since the user knows they were being observed, they engaged in two activities (Partipatory interaction): 
 1. Activity One: Finding a game on GamePigeon: I asked the user how they would approach in selecting a game to play; what kind of details do they consider?
 
-2. Activity Two: Playing the game with an opponent: I asked the user to play a game with their opponent, and how they felt after being able to text a game to their friend/family. 
+2. Activity Two: Playing the game with an opponent: I asked the user to play a game with their opponent, and how they felt after being able to text a game to their friend/family. During this activity, the opponent the user was playing against was me as a choice of convenience for the user. 
 
-* For the interview, I used my computer and the software zoom to record their backstory of playing games. The interview was conducted at each other's respective homes over zoom. 
+* For the interview, I used my computer and the software zoom to record their backstory of playing games. The interview was conducted at each other's respective homes over zoom. During the zoom, both of our faces are visible but not at the same time. The faces appear as who is talking.
 
 
 ### ✅ Step 4: Observation/Interview Guide
@@ -77,6 +77,8 @@
 
 ### Some interesting quotes/insights from the interview:
 
+#### User's preference of the Games Displayed (00:13:18.430 --> 00:13:49.590)
+I would wish for more games, or like, maybe like, sort it out according to category. Like a card game, or like a marble game, or a real-life imitation game. Right now, there is a lot going on [and] my eyes are going everywhere. 
 
 
 ### ✅ Step 6: Reflection
