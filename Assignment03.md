@@ -37,6 +37,20 @@
 #### Where would the users do that activity? 
 
 #### What would the users usually do in order to complete that activity? 
+The users would follow these steps:
+1. Ensure that they have an iPhone or iPad with iMessage installed.
+
+2. Download and install the GamePigeon app from the App Store.
+
+3. Open iMessage and start a conversation with a friend or family member.
+
+4. Tap on the App Store icon and then the GamePigeon icon to access the app's games.
+
+5. Select a game to play and follow the on-screen instructions to start the game.
+
+6. Play the game and try to win against their opponent.
+
+7. Continue playing games with their friend or family member, either by selecting another game or playing the same game again.
 
 ### ✅ Step 3: Pick Research Methods
 
