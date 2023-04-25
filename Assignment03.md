@@ -28,6 +28,11 @@
 
 ### ✅ Step 2: Target Users
 
+What are the characteristics of users?
+
+* Demographics:
+* Preferences:
+* Expertise:
 
 ### ✅ Step 3: Pick Research Methods
 
