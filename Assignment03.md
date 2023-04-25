@@ -95,5 +95,6 @@ It provides entertainment for sure, and something that I can use if like. Oh, if
 
 ### ✅ Step 6: Reflection
 
+The contextual inquiry process 
 
 
