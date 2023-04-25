@@ -3,3 +3,5 @@
 ## Contextual Inquiry
 
 ### Introductory Steps
+
+### ✅ Step 1: Specify the Main Design Challenge
