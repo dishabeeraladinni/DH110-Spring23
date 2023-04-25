@@ -77,19 +77,19 @@
 
 ### Some interesting quotes/insights from the interview:
 
-#### User's preference of the Games Displayed (00:13:18.430 --> 00:13:49.590)
+#### 1. User's preference of the Games Displayed (00:13:18.430 --> 00:13:49.590)
 I would wish for more games, or like, maybe like, sort it out according to category. Like a card game, or like a marble game, or a real-life imitation game. Right now, there is a lot going on [and] my eyes are going everywhere. 
 
-#### These tiny games opened up a new perspective (00:20:21.250 --> 00:20:48.270)
+#### 2. These tiny games opened up a new perspective (00:20:21.250 --> 00:20:48.270)
 It opened up a new perspective like I should just send people random games all the time. I forget like there is I can do more than just text. I can send all these games. It's just like another text you send to people.
 
-#### User's preference of instructions (00:22:00.040 --> 00:22:29.360)
+#### 3. User's preference of instructions (00:22:00.040 --> 00:22:29.360)
 I think some instructions were unclear, but otherwise it was fun. [Something like] if player one will be going first, or a player, 2 will be going first.
 
-#### User's preference of both players seeing which game is being decided (00:22:54.190 --> 00:23:12.830)
+#### 4. User's preference of both players seeing which game is being decided (00:22:54.190 --> 00:23:12.830)
 Shortlisting the options. I think the most difficult part was just to decide which one, what seems more interesting, and which one would. Like, whoever I play with, find [the game] interesting to like. I don't want it to just be me who's having fun.
 
-#### Provides a fun way to take a break from reality (00:23:42.990 --> 00:24:14.710)
+#### 5. Provides a fun way to take a break from reality (00:23:42.990 --> 00:24:14.710)
 It provides entertainment for sure, and something that I can use if like. Oh, if I haven't talked to this friend in a while. But I don't know what to start with. I get to send them a game, and then we can like talk about like catch up, or anything. So I think it's a nice like little break from reality. and something that is can just be used as like light icebreakers or something that just like, you know, for fun you can use with a friend.
 
 
