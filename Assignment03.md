@@ -48,10 +48,11 @@
 ### ✅ Step 5: Conducting the Research
 
 * Please find the recording of the interview [here](https://photos.app.goo.gl/ztTBFCK9SHNm7XoN7)
-* Please find the screen recording of the phone here
 * Please find the transcript [here](https://docs.google.com/document/d/1bfj7R1Mb1ZNWDReMf01XxrkbgkkkGwpW225zj4pVE4A/edit?usp=sharing)
 
 ### Some interesting quotes/insights from the interview:
+
+
 
 ### ✅ Step 6: Reflection
 
