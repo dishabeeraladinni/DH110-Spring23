@@ -21,7 +21,7 @@
 #### What is(are) the limitation(s) that possibly would be improved?
 
 1. GamePigeon is only offered for iphone users which means Android users are unable to enjoy the app. 
-* 2. While GamePigeon allows users to play games with friends, there are no social features like a friend list or chat function within the app. 
-* 3. GamePigeon does not allow users to save their progress in a game and return to it later, which can be frustrating if a game takes a long time to play.
+2. While GamePigeon allows users to play games with friends, there are no social features like a friend list or chat function within the app. 
+3. GamePigeon does not allow users to save their progress in a game and return to it later, which can be frustrating if a game takes a long time to play.
 
 
