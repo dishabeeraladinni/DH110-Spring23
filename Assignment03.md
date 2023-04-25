@@ -17,6 +17,7 @@
 
 #### What is(are) the traditional/current solution(s) to satisfy the needs?
 
+Current solutions to satisfy this need for staying connected to family and friends include social media apps: Instagram, Whatsaap, Facebook, Snapchat, etc. In terms of gaming apps, there includes Heads Up/Charades, HouseParty and Trivia Crack that can stay connected with family/friends on mobile devices. 
 
 #### What is(are) the limitation(s) that possibly would be improved?
 
@@ -35,6 +36,8 @@
 * Expertise: users do not need any particular level of expertise to use this application, just users who enjoy all levels of games and know how to use iMessage
 
 #### Where would the users do that activity? 
+
+
 
 #### What would the users usually do in order to complete that activity? 
 The users would follow these steps:
