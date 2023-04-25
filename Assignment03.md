@@ -57,6 +57,12 @@
 
 ### ✅ Step 3: Pick Research Methods
 
+* I incorporated a conbination of two methods: overt observation: participatory interaction and interview.
+Since the user knows they were being observed, they engaged in two activities: 
+1. Activity One: Finding a game on GamePigeon
+
+2. Activity Two: Playing the game with an opponent
+
 
 ### ✅ Step 4: Observation/Interview Guide
 
