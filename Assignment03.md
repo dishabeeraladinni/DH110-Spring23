@@ -37,6 +37,8 @@
 
 ### ✅ Step 5: Conducting the Research
 
+## Some interesting quotes/insights from the interview:
+
 ### ✅ Step 6: Reflection
 
 
