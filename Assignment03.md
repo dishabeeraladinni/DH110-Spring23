@@ -34,7 +34,7 @@ What are the characteristics of users?
 * Preferences: users who are likely to be those who enjoy playing games with friends and family through messaging apps
 * Expertise: users do not need any particular level of expertise to use this application, just users who enjoy all levels of games and know how to use iMessage
 
-Where, why, under which conditions) would the users do that activity? 
+Where would the users do that activity? 
 
 What would the users usually do in order to complete that activity? 
 
