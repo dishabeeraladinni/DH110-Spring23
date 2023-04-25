@@ -26,4 +26,6 @@
 
 3. GamePigeon does not allow users to save their progress in a game and return to it later, which can be frustrating if a game takes a long time to play.
 
+### ✅ Step 2: Target Users
+
 
