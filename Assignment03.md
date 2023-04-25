@@ -17,7 +17,7 @@
 
 #### What is(are) the traditional/current solution(s) to satisfy the needs?
 
-Current solutions to satisfy this need for staying connected to family and friends include social media apps: Instagram, Whatsaap, Facebook, Snapchat, etc. In terms of gaming apps, there includes Heads Up/Charades, HouseParty and Trivia Crack that can stay connected with family/friends on mobile devices. 
+* Current solutions to satisfy this need for staying connected to family and friends include social media apps: Instagram, Whatsaap, Facebook, Snapchat, etc. In terms of gaming apps, there includes Heads Up/Charades, HouseParty and Trivia Crack that can stay connected with family/friends on mobile devices. 
 
 #### What is(are) the limitation(s) that possibly would be improved?
 
@@ -37,10 +37,10 @@ Current solutions to satisfy this need for staying connected to family and frien
 
 #### Where would the users do that activity? 
 
-
+Users would do this activty on mobile devices as these devices have become the powerhouse to accessing all kinds of information on the tip of our hands. Since it is an app, users can play these games from almost anywhere as long as there is internet connectivity. This includes being at home, work, school, vacation, etc. It is like sending a text, however in game format.  
 
 #### What would the users usually do in order to complete that activity? 
-The users would follow these steps:
+* The users would follow these steps:
 1. Ensure that they have an iPhone or iPad with iMessage installed.
 
 2. Download and install the GamePigeon app from the App Store.
