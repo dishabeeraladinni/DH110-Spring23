@@ -30,9 +30,9 @@
 
 What are the characteristics of users?
 
-* Demographics:
-* Preferences:
-* Expertise:
+* Demographics: students (high school, college undergraduates), young adults, working adults and iOS users
+* Preferences: users who are likely to be those who enjoy playing games with friends and family through messaging apps
+* Expertise: users do not need any particular level of expertise to use this application, just users who enjoy all levels of games and know how to use iMessage
 
 ### ✅ Step 3: Pick Research Methods
 
@@ -44,6 +44,7 @@ What are the characteristics of users?
 ### ✅ Step 5: Conducting the Research
 
 * Please find the recording of the interview [here](https://photos.app.goo.gl/ztTBFCK9SHNm7XoN7)
+* Please find the screen recording of the phone here
 * Please find the transcript here
 
 ### Some interesting quotes/insights from the interview:
