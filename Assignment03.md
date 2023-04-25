@@ -79,10 +79,10 @@
 
 
 
-#### User's preference of the Games Displayed (00:13:18.430 --> 00:13:49.590)
+#### * User's preference of the Games Displayed (00:13:18.430 --> 00:13:49.590)
 I would wish for more games, or like, maybe like, sort it out according to category. Like a card game, or like a marble game, or a real-life imitation game. Right now, there is a lot going on [and] my eyes are going everywhere. 
 
-#### These tiny games opened up a new perspective (00:20:21.250 --> 00:20:48.270)
+#### * These tiny games opened up a new perspective (00:20:21.250 --> 00:20:48.270)
 It opened up a new perspective like I should just send people random games all the time. I forget like there is I can do more than just text. I can send all these games. 
 
 
