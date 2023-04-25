@@ -29,3 +29,15 @@
 ### ✅ Step 2: Target Users
 
 
+### ✅ Step 3: Pick Research Methods
+
+
+### ✅ Step 4: Observation/Interview Guide
+
+
+### ✅ Step 5: Conducting the Research
+
+### ✅ Step 6: Reflection
+
+
+
