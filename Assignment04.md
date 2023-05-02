@@ -12,7 +12,7 @@
 
 ### Persona 1: Sarah
 
-1) ![WhatsApp screenshot](sarah.png)
+![sarah](sarah.png)
 
 
 ### Empathy Map:
