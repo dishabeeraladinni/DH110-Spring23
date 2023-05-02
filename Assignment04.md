@@ -73,6 +73,8 @@ James recommends the app to other friends who enjoy mobile gaming, highlighting 
 
 Journey Map:
 
+![james](jmap2.png
+
 
 
 
