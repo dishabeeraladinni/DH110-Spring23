@@ -20,14 +20,14 @@
 ![sarah empathy](empathy1.png)
 
 
-
-
 ### Persona 2: James
 
 ![james](james.png)
 
 
 ### Empathy Map:
+
+![james](empathy2.png)
 
 
 
