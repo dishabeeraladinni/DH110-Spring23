@@ -12,7 +12,7 @@
 
 ### Persona 1: Sarah
 
-![WhatsApp screenshot](Screen Shot 2023-05-01 at 11.52.05 PM.png)
+![sarah screenshot](sarah.png)
 
 
 ### Empathy Map:
