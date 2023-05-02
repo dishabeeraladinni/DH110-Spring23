@@ -27,7 +27,7 @@
 
 ### Empathy Map:
 
-![james](empathy2.png)
+![james](empathyjames.png)
 
 
 
