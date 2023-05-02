@@ -57,7 +57,7 @@ Journey Map:
 
 #### James's Scenario:
 
-James is a high school student who loves to play mobile games during his free time. He first discovered GamePigeon through a friend who recommended it as a fun way to pass the time. James downloads the app and starts playing the various games offered.
+James is a high school student who loves to play mobile games during his free time. He first discovered GamePigeon through a friend who recommended it as a fun way to pass the time. James downloads the app and starts playing his favorites on it: Anagrams, Word Hunt and Connect 4.
 
 Initial Use and Feedback: While James enjoys playing games on GamePigeon, he finds that the avatars and backgrounds are somewhat generic and don't reflect his personal style or preferences. He decides to send feedback to GamePigeon, suggesting that they add more customization options to the app. James believes that being able to personalize his avatar and background would make the game more fun and engaging for him.
 
