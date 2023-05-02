@@ -54,6 +54,8 @@ Sarah is pleased with the improvements made to GamePigeon's social features, and
 
 Journey Map:
 
+![james](jmap.png)
+
 
 #### James's Scenario:
 
