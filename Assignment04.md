@@ -35,6 +35,7 @@ After experience with GamePigeon as well as user research in the prior assingmen
 
 ![james](empathyjames.png)
 
+### User Scenario and Journey Map
 
 
 
