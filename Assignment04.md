@@ -61,7 +61,7 @@ Journey Map:
 
 James is a high school student who loves to play mobile games during his free time. He first discovered GamePigeon through a friend who recommended it as a fun way to pass the time. James downloads the app and starts playing his favorites on it: Anagrams, Word Hunt and Connect 4.
 
-Initial Use and Feedback: While James enjoys playing games on GamePigeon, he finds that the avatars and backgrounds are somewhat generic and don't reflect his personal style or preferences. He decides to send feedback to GamePigeon, suggesting that they add more customization options to the app. James believes that being able to personalize his avatar and background would make the game more fun and engaging for him.
+While James enjoys playing games on GamePigeon, he finds that the avatars and backgrounds are somewhat generic and don't reflect his personal style or preferences. He decides to send feedback to GamePigeon, suggesting that they add more customization options to the app. James believes that being able to personalize his avatar and background would make the game more fun and engaging for him.
 
 After a few weeks of using the app without any changes to the customization options, James becomes frustrated. He feels like the app is lacking in personalization and that he is missing out on an opportunity to make the games more fun and enjoyable. James begins to consider switching to a different mobile game that offers more customization features allowing him to use his creative outlet.
 
