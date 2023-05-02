@@ -10,17 +10,17 @@
 
 ### Persona Creation and Empathy Maps
 
-#### Persona 1: Sarah
+### Persona 1: Sarah
 
 
 
 
-#### Empathy Map:
+### Empathy Map:
 
 
 
 
-#### Persona 2: James
+### Persona 2: James
 
 
 ### Empathy Map:
