@@ -17,6 +17,7 @@
 
 ### Empathy Map:
 
+![sarah](sarah empathy.png)
 
 
 
