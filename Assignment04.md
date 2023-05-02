@@ -22,6 +22,8 @@
 
 ### Persona 2: James
 
+![james](james.png)
+
 
 ### Empathy Map:
 
