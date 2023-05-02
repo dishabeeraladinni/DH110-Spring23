@@ -51,6 +51,12 @@ A few weeks later, Sarah receives a notification from GamePigeon announcing a ne
 
 Sarah is pleased with the improvements made to GamePigeon's social features, and she continues to use the app regularly to play games and connect with friends. She recommends it to other friends as a fun and easy way to stay connected and have fun together, even when they're apart. Sarah feels like the app has become an important part of her social life, and she appreciates that GamePigeon continues to listen to user feedback and make improvements to the app.
 
+Journey Map:
+
+
+#### James's Scenario:
+
+
 
 
 
