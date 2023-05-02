@@ -11,9 +11,7 @@
 ### Persona Creation and Empathy Maps
 
 ### Persona 1: Sarah
-
-![Sarah](Screen Shot 2023-05-01 at 11.52.05 PM.png)
-
+<img src=” ./npr-screenshot.png”&gt>
 
 ### Empathy Map:
 
