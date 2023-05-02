@@ -40,7 +40,7 @@ After experience with GamePigeon as well as user research in the prior assingmen
 
 ### Sarah's Scenario:
 
-Sarah is a college student who loves spending time with her friends, but lately, it's been difficult to get together in person due to busy schedules and distance. One day, while scrolling through social media, she comes across a post from a friend who recommends GamePigeon as a fun and easy way to stay connected and play games together, even when they can't be in the same place.
+Sarah is a working woman who loves spending time with her friends, but lately, it's been difficult to get together in person due to busy schedules and distance. One day, while scrolling through social media, she comes across a post from a friend who recommends GamePigeon as a fun and easy way to stay connected and play games together, even when they can't be in the same place.
 
 Intrigued by the idea, Sarah decides to download the app and give it a try. She finds that it's easy to navigate and offers a wide variety of games, including classics like pool and checkers, as well as newer games like Anagrams and Tanks. Sarah enjoys playing games with her friends, but she finds that the social features are somewhat limited. She wishes she could chat more easily within the app or customize her avatar.
 
