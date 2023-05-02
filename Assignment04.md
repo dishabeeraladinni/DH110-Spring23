@@ -7,7 +7,7 @@
 
 ### Improving GamePigeon
 
-After experience with GamePigeon as well as user research in the prior assingments, I have identified three features of the game platofrm to improve upon.
+After experience with GamePigeon as well as user research in the prior assingments, I have identified two features of the game platofrm to improve upon.
 
 1. Customization: Some users have expressed a desire for more customization options within the games. For example, allowing users to select different backgrounds, game pieces, or music could enhance the user experience and make the games more personalized.
 
