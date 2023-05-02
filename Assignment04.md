@@ -4,6 +4,7 @@
 
 ### Purpose of Storytelling
 
+The purpose of UX storytelling is to create a narrative that helps stakeholders, designers, and developers understand the user's experience with a product or service. The goal is to create a shared understanding of the user's needs, desires, and pain points through a compelling and emotionally resonant story. By creating personas, empathy maps and scenarios, I was able to envision a user's journey through the app and coming up with potential scenarios that users might want to implement these improvments. 
 
 ### Improving GamePigeon
 
@@ -56,7 +57,19 @@ Journey Map:
 
 #### James's Scenario:
 
+James is a high school student who loves to play mobile games during his free time. He first discovered GamePigeon through a friend who recommended it as a fun way to pass the time. James downloads the app and starts playing the various games offered.
 
+Initial Use and Feedback: While James enjoys playing games on GamePigeon, he finds that the avatars and backgrounds are somewhat generic and don't reflect his personal style or preferences. He decides to send feedback to GamePigeon, suggesting that they add more customization options to the app. James believes that being able to personalize his avatar and background would make the game more fun and engaging for him.
+
+After a few weeks of using the app without any changes to the customization options, James becomes frustrated. He feels like the app is lacking in personalization and that he is missing out on an opportunity to make the games more fun and enjoyable. James begins to consider switching to a different mobile game that offers more customization features allowing him to use his creative outlet.
+
+A few weeks later, James receives a notification from GamePigeon announcing a new update with enhanced customization options. James is excited to see the changes and immediately starts using the new features to personalize his avatar and background. He enjoys being able to make the game more reflective of his personal style and preferences, which makes the game more engaging and fun for him.
+
+James is pleased with the improvements made to the customization options in GamePigeon, and he continues to use the app regularly to play games and connect with friends. He finds that the added personalization makes the games more enjoyable, and he appreciates that GamePigeon took his feedback seriously and made improvements based on user suggestions. James feels heard and valued by the GamePigeon team and believes that the app has become an important part of his mobile gaming experience.
+
+James recommends the app to other friends who enjoy mobile gaming, highlighting the improved customization options as a key feature that makes the app more engaging and fun to use. James believes that the app has improved significantly since he first started using it and is excited to see what new features will be added in the future.
+
+Journey Map:
 
 
 
