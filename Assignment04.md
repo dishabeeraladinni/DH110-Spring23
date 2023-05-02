@@ -8,9 +8,25 @@
 ### Improving GamePigeon
 
 
-### Persona
+### Persona Creation and Empathy Maps
 
-### Empathy Map
+#### Persona 1: Sarah
+
+
+
+
+#### Empathy Map:
+
+
+
+
+#### Persona 2: James
+
+
+### Empathy Map:
+
+
+
 
 
 
