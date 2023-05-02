@@ -17,7 +17,8 @@
 
 ### Empathy Map:
 
-![sarah](sarah empathy.png)
+![WhatsApp screenshot](sarah empathy.png)
+
 
 
 
