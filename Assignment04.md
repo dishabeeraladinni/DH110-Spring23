@@ -37,6 +37,8 @@ After experience with GamePigeon as well as user research in the prior assingmen
 
 ### User Scenario and Journey Map
 
+#### Sarah's Scenario:
+
 
 
 
