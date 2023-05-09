@@ -48,4 +48,4 @@ James's Task:
 
 ## Tester
 
-Here is a link to the tester of the prototype. The audio did cut out and was unable to retrieve it. 
+Here is a link to the tester of the prototype. The audio did cut out and was unable to retrieve it. Since I was didn't record to cloud, there is no transcript. Overall, the tester's remarks were that "there should also be another feature like signing in to the app using another app, for example: signing in through google instead of signing up and going through the whole process". He also mentioned that the wireframe was easy to follow and the tasks were easy to navigate.
