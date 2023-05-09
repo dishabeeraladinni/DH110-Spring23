@@ -9,6 +9,6 @@
 ## Scenarios: 
 
 The two scenarios I have created are:
-1. Sarah:  
+1. Sarah: A very tech-savvy marketing assistant who wants to   
 
 2. James: 
