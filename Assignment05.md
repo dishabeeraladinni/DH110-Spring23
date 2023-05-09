@@ -15,7 +15,7 @@ Task: Sarah wants to use the customization features: such as creating her own av
 
 2. James: An introverted high school student who loves to play mobile games during his free time but doesn't feel connected to his opponent while playing. He first discovered GamePigeon through a friend who recommended it as a fun way to pass the time. James downloads the app and starts playing his favorites on it: Mancala, Word Hunt and Connect 4.
 
-Task: James wants to feel connected to his friends/opponents while playing the games. Hence he utilizes the chat option during the game to communicate about the intensity/direction of where the game is going. He also likes his friends avater and lets him know that. 
+Task: James wants to feel connected to his friends/opponents while playing the games. Hence he utilizes the chat option during the game to communicate about the intensity/direction of where the game is going and likes his friend's avatar. He also shares his game progress to his other friends. 
 
 ## Wireframe:
 
@@ -23,6 +23,6 @@ Task: James wants to feel connected to his friends/opponents while playing the g
 ![wireframe2](wireframe2.png)
 ![wireframe3](wireframe3.png)
 ![wireframe4](wireframe4.png)
-![wireframe5](wireframe5.png)
+
 
 
