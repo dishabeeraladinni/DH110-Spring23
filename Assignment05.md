@@ -17,4 +17,8 @@ Task: Sarah wants to use the customization features: such as creating her own av
 
 Task: James wants to feel connected to his friends/opponents while playing the games. Hence he utilizes the chat option during the game to communicate about the intensity/direction of where the game is going. He also likes his friends avater and lets him know that. 
 
+## Wireframe:
+
+![wireframe1](wireframe1.png)
+
 
