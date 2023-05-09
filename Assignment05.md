@@ -35,5 +35,8 @@ Task: James wants to feel connected to his friends/opponents while playing the g
 Sarah's Task:
 
 ![wireflow1](sarahwireframe.jpg)
+![wireflow1](sarahwireframe2.jpg)
+![wireflow1](sarahwireframe3.jpg)
+![wireflow1](sarahwireframe4.jpg)
 
 
