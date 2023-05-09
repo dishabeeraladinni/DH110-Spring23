@@ -49,3 +49,7 @@ James's Task:
 ## Tester
 
 Here is a [link](https://photos.app.goo.gl/2rTTgNVbAqr3oVGr9) to the tester of the prototype. The audio did cut out and was unable to retrieve it. Since I was didn't record to cloud, there is no transcript. Overall, the tester's remarks were that "there should also be another feature like signing in to the app using another app, for example: signing in through google instead of signing up and going through the whole process". He also mentioned that the wireframe was easy to follow and the tasks were easy to navigate.
+
+## Reflection
+
+Overall, this was my first time designing a prototype for this application and it was an interesting experience to use my creative outlet in designing the interface. Trying to come up with scenarios for various kinds of users made me think out of the box. I used the wesbite: Whimsical for the first time and it was cool to design using buttons, labels, tabs, and simply put my vision on the screen. 
