@@ -22,6 +22,7 @@ Task: James wants to feel connected to his friends/opponents while playing the g
 ![wireframe1](wireframe1.png)
 ![wireframe2](wireframe2.png)
 ![wireframe3](wireframe3.png)
+![wireframe4](wireframe4.png)
 
 
 ## WireFlow
