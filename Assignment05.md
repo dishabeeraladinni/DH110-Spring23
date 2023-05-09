@@ -5,3 +5,5 @@
 
 
 #### By making a low-fidelity prototype, I can test the features of my design and make any improvements. My project focuses on supporting users in being able to connect with family and friends by playing games. 
+
+## Scenarios: 
