@@ -41,4 +41,8 @@ Sarah's Task:
 
 James's Task:
 
+![wireflow1](jameswireframe.jpg)
+![wireflow1](jameswireframe2.jpg)
+![wireflow1](jameswireframe3.jpg)
+![wireflow1](jameswireframe4.jpg)
 
