@@ -7,7 +7,11 @@
 
 ### Design Process
 
+I first created my prototype on paper and then later implemented it digitally using Figma. On Figma, I chose a phone frame as GamePigeon since it is primarily used on messaging platforms. After all the information logistics, I implemented a grid to determine the best information structure. Then, I determined the typography styles of all texts, which would immediately give a rough estimate of the shapes and sizes of the buttons. After several rounds of iterations of the wireframe, I developed a color scheme for both themes: light and dark. 
+
 ### Links to Figma file and prototype
+
+[Figma](https://photos.app.goo.gl/2rTTgNVbAqr3oVGr9](https://www.figma.com/file/i7iszb2qpmTnHfjRvyTqXT/Untitled?type=design&node-id=0%3A1&t=GWsnm8JbSbIGJMnB-1) file of the interface designs
 
 ## Screen Interface Designs
 
