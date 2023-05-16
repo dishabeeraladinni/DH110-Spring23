@@ -51,8 +51,10 @@ Here is the [Figma prototype](https://www.figma.com/proto/i7iszb2qpmTnHfjRvyTqXT
 
 This is the final design of the interface:
 
-* Layout:
-* Shape:
+* Layout: phone frame with a 5 column grid with a 50 px margin
+* Shape: 5 px heading 3 buttons and 20 px buttons
+* Font: Bayon with 2& letter spacing
+* Color: 
 
 
 ![final design](finaldesign.png)
