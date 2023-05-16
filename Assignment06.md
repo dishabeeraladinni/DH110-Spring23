@@ -3,6 +3,8 @@
 
 ### Description of Project
 
+My goal for this project is to design an app where people of all backgrounds and ages as well as technical levels have the chance to play games with the click of a text button. The screen I designed is the sign up/login page as it will be the first page in the interface once users download the app. 
+
 ### Purpose of Interface Design
 
 The purpose of interface design is to create user interfaces that facilitate effective and efficient interactions between humans and digital systems, such as software applications, websites, or electronic devices. Interface design focuses on designing visually appealing and intuitive interfaces that enhance the user experience and enable users to accomplish their goals easily. For this assignment, we are bringing paper vision digitally in order to create a consistent user friendly experience.
