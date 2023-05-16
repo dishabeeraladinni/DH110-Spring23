@@ -3,7 +3,7 @@
 
 ### Description of Project
 
-My goal for this project is to design an app where people of all backgrounds and ages as well as technical levels have the chance to play games with the click of a text button. The screen I designed is the sign up/login page as it will be the first page in the interface once users download the app. 
+My goal for this project is to design an app where people of all backgrounds and ages as well as technical levels have the chance to play games with the click of a text button. The screen I designed is the sign up/login page as it will be the first page in the interface once users download the app. It is important for the sign in/login page to attract a users since most wesbites/apps ask a lot of information during this process which demotivates the user to continue. Includuing a simple and minimilatic interface would help this.
 
 ### Purpose of Interface Design
 
@@ -67,7 +67,7 @@ This is the final design of the interface:
 
 * Layout: phone frame with a 5 column grid with a 50 px margin
 * Shape: 5 px heading 3 buttons and 20 px buttons
-* Font: Bayon with 2& letter spacing
+* Font: Bayon with 2% letter spacing
 * Color: 
 
 
