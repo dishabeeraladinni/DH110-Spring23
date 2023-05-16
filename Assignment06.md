@@ -29,9 +29,13 @@ I decided to compare three fonts: Anton, Teko, and Bayon. Since it is a game app
 
 ### Shape Variations
 
+These are the three versions of the shapes for the buttons. Since there are two different kinds of buttons, I ended up choosing 5 px for the First/Last Name, Email, Password and Gamer ID buttons and 20 px for the Sign Up/ Login buttons to give it a toggle look and feel. The round edges gives a more modern look. 
+
 ![shape variation](shapevariation.png)
 
 ### Color Palettes
+
+I created both a light and dark mode of my design, with some changes in the color palette depending on its usage on light/dark mode. For example during the dark mode, the heading 1 and 2 colors are different than the colors in light mode to accomadate user readability. 
 
 ![color palette](colorpalette.png)
 
