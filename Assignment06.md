@@ -23,6 +23,8 @@ Here is the [Figma prototype](https://www.figma.com/proto/i7iszb2qpmTnHfjRvyTqXT
 
 ### Typographic Variations
 
+I decided to compare three fonts: Anton, Teko, and Bayon. Since it is a game app, I wanted to opt for a clean and modern look as well as coinciding with a gaming theme on a phone. I decided to use Bayon as it provided an unique appeal. 
+
 ![typography](typography.png)
 
 ### Shape Variations
@@ -38,6 +40,8 @@ Here is the [Figma prototype](https://www.figma.com/proto/i7iszb2qpmTnHfjRvyTqXT
 ![color test](colortest.png)
 
 ### Layout
+
+This is the layout for the design. It uses phone frame with a 5 column grid with a 50 px margin. I picked a phone frame because this game is primarily played on phones as usually sent as a text message. 
 
 ![layout](layout.png)
 ![layout](layout2.png)
