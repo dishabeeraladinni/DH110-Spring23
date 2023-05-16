@@ -5,7 +5,7 @@
 
 ### Purpose of Interface Design
 
-The purpose of interface design is to create user interfaces that facilitate effective and efficient interactions between humans and digital systems, such as software applications, websites, or electronic devices. Interface design focuses on designing visually appealing and intuitive interfaces that enhance the user experience and enable users to accomplish their goals easily.
+The purpose of interface design is to create user interfaces that facilitate effective and efficient interactions between humans and digital systems, such as software applications, websites, or electronic devices. Interface design focuses on designing visually appealing and intuitive interfaces that enhance the user experience and enable users to accomplish their goals easily. For this assignment, we are bringing paper vision digitally in order to create a consistent user friendly experience.
 
 ### Design Process
 
