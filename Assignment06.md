@@ -11,7 +11,7 @@ I first created my prototype on paper and then later implemented it digitally us
 
 ### Links to Figma file and prototype
 
-[Figma](https://photos.app.goo.gl/2rTTgNVbAqr3oVGr9](https://www.figma.com/file/i7iszb2qpmTnHfjRvyTqXT/Untitled?type=design&node-id=0%3A1&t=GWsnm8JbSbIGJMnB-1) file of the interface designs
+[Figma](https://www.figma.com/file/i7iszb2qpmTnHfjRvyTqXT/Untitled?type=design&node-id=0%3A1&t=GWsnm8JbSbIGJMnB-1) file of the interface designs
 
 ## Screen Interface Designs
 
