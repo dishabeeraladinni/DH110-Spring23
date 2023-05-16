@@ -27,11 +27,11 @@ Here is the [Figma prototype](https://www.figma.com/proto/i7iszb2qpmTnHfjRvyTqXT
 
 ### Color Palettes
 
-
+![color palette](colorpalette.png)
 
 ### Color Test
 
-
+![color test](colortest.png)
 
 ### Layout
 
@@ -46,5 +46,7 @@ Here is the [Figma prototype](https://www.figma.com/proto/i7iszb2qpmTnHfjRvyTqXT
 #### During my impression testing, I did a 5 second test and showed the design for 5 seconds. After the 5 second test, I asked her for her first impressions and what she could recall about the design. The following are her first impressions:
 
 ## Final Design
+
+![final design](finaldesign.png)
 
 ### Summary 
