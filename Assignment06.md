@@ -78,3 +78,5 @@ This is the final design of the interface:
 ![final design](finaldesign.png)
 
 ### Summary 
+
+It was a fun experience using Figma to design the interface as it allowed me to use my creative outlet. It allowed me to think out of the box to satisfy a good user experience and needs. After the impression testing, my interviewee brought up a good point in not crowding the first and last name together as users may forget to include both in one line. To which, it would disappoint the user once asked again to reinput the information. Even after designing the interface, it is important to have suggestions to create user-centric, visually appealing, and efficient interfaces that enable users to interact with digital systems in a seamless and meaningful way.
