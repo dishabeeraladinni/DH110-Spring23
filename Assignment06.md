@@ -5,6 +5,8 @@
 
 ### Purpose of Interface Design
 
+The purpose of interface design is to create user interfaces that facilitate effective and efficient interactions between humans and digital systems, such as software applications, websites, or electronic devices. Interface design focuses on designing visually appealing and intuitive interfaces that enhance the user experience and enable users to accomplish their goals easily.
+
 ### Design Process
 
 I first created my prototype on paper and then later implemented it digitally using Figma. On Figma, I chose a phone frame as GamePigeon since it is primarily used on messaging platforms. After all the information logistics, I implemented a grid to determine the best information structure. Then, I determined the typography styles of all texts, which would immediately give a rough estimate of the shapes and sizes of the buttons. After several rounds of iterations of the wireframe, I developed a color scheme for both themes: light and dark. 
