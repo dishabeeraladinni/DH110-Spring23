@@ -35,7 +35,8 @@ Here is the [Figma prototype](https://www.figma.com/proto/i7iszb2qpmTnHfjRvyTqXT
 
 ### Layout
 
-![typography](layout)
+![layout](layout.png)
+![layout](layout2.png)
 
 
 ## Impression Testing
