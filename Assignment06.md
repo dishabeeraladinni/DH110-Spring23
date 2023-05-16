@@ -48,6 +48,16 @@ Here is the [Figma prototype](https://www.figma.com/proto/i7iszb2qpmTnHfjRvyTqXT
 #### During my impression testing, I did a 5 second test and showed the design for 5 seconds. After the 5 second test, I asked her for her first impressions and what she could recall about the design. The following are her first impressions:
 
 * "Very clean and organized. I like [how] there was a logo"
+* "I like the color coordination, very like relaxing colors, like earth tones neutral. I'm a fan of those"
+* "Very aesthetically pleasing"
+* "I also like how all the boxes were the same size"
+
+Then with the prototype link on zoom, I asked her for more feedback. This is what she said:
+
+* Like the color palette "because it kind of matches the bird"
+* The font is reasonable
+* "I think maybe the one thing I do is split it like the lines [in the first and last name button]. I feel like often when they make you enter like your first and last name. They make you do separate because there's too many ways for people to mess that up."
+* The interface has a "good feeling" and doesn't make me feel stressed about playing games
 
 ## Final Design
 
