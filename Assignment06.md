@@ -49,6 +49,12 @@ Here is the [Figma prototype](https://www.figma.com/proto/i7iszb2qpmTnHfjRvyTqXT
 
 ## Final Design
 
+This is the final design of the interface:
+
+* Layout:
+* Shape:
+
+
 ![final design](finaldesign.png)
 
 ### Summary 
