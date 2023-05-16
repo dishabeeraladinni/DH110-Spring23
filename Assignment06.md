@@ -41,6 +41,10 @@ Here is the [Figma prototype](https://www.figma.com/proto/i7iszb2qpmTnHfjRvyTqXT
 
 ## Impression Testing
 
+[Link to testing](https://photos.app.goo.gl/nbTKdM3qHqPJ2T2Y6)
+
+### During my impression testing, I did a 5 second test and showed the design for 5 seconds. After the 5 second test, I asked her for her first impressions and what she could recall about the design. The following are her first impressions:
+
 ## Final Design
 
 ### Summary 
