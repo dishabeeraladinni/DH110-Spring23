@@ -12,7 +12,12 @@ The purpose of this project is to efficiently build a gaming app that allows use
 The protoype was created on Figma, a UI/UX platform that helps create prototypes. I first drew out my wireframe on paper and then digitalized it using the features on Figma. For the interface design, I performed impression tests to get feeback on the color palette, typography, and shape variation. 
 
 ## Tasks:
-creating own avatar, choosing the background music and background of the game, utilize the chat option during the game, and shares game progress
+With this revised prototype, the user will be:
+1. Creating their own avatar, choosing the background music and background of the game. 
+2. During the game, utilizing the chat option during the game, and sharing their game progress once the game is over.
+
+## WireFrame
+Here is a picture of the wireframe
 
 ## Prototype
 Here is the final [prototype](https://www.figma.com/proto/zk5Wfaqx0rUgu1ntqOQqnz/high-fidelity-prototype?type=design&node-id=9-126&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=9%3A126&show-proto-sidebar=1)
