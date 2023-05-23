@@ -14,6 +14,9 @@ The protoype was created on Figma, a UI/UX platform that helps create prototypes
 ## Tasks:
 With this revised prototype, the user will be:
 1. Creating their own avatar, choosing the background music and background of the game. 
+
+On the homepage, the user has the ability to sign up or login into Game Pigeon. 
+
 2. During the game, utilizing the chat option during the game, and sharing their game progress once the game is over.
 
 ## WireFrame
