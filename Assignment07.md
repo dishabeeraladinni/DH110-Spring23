@@ -1,2 +1,2 @@
-# DH110-Spring23
+# High Fidelity Prototype
 This is the space for UX project for DH110
