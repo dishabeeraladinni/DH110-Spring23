@@ -17,7 +17,8 @@ With this revised prototype, the user will be:
 2. During the game, utilizing the chat option during the game, and sharing their game progress once the game is over.
 
 ## WireFrame
-Here is a picture of the wireframe
+Here is a picture of the wireframe:
+![prototype](prototype.png)
 
 ## Prototype
 Here is the final [prototype](https://www.figma.com/proto/zk5Wfaqx0rUgu1ntqOQqnz/high-fidelity-prototype?type=design&node-id=9-126&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=9%3A126&show-proto-sidebar=1)
