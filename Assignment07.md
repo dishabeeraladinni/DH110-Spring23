@@ -39,5 +39,7 @@ Durig the Cognitive Walkthrough, this is what my peers mentioned:
 
 4. "What music and what backgrounds should be specific"
 
+5. "For the purpose of the prototype, theres a lot of focus on avatar building and no way out of it if you change your mind and want to just login/play"
+
 Mainly my protoype didn't include a back button making it not appear as an "app". With this feedback, I would add a back button on all of my screens to help users go back instead of exiting the app and restarting again. This would improve efficiency and not make users frustrated. For the share media screen, I will remove the white background for some of the apps to make it look cleaner and visually appealing to the user's eye. For the selecting music and background, I will provide the options for both categories to make it personalfor the user. 
 
