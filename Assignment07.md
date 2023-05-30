@@ -35,5 +35,7 @@ Durig the Cognitive Walkthrough, this is what my peers mentioned:
 
 2. "Many screens need specific content. Everything should look like a "real" app, which includes comprehensive content, instead of black "winners," "opponents," or "backgrounds"'
 
-Mainly my protoype didn't include a back button making it not appear as an "app". With this feedback, I would add a back button on all of my screens to help users go back instead of exiting the app and restarting again. This would improve efficiency and not make users frustrated.  
+3. "The icons of TikTok, twitter, pinterest,whatsapp, and imessage should "remove background"
+
+Mainly my protoype didn't include a back button making it not appear as an "app". With this feedback, I would add a back button on all of my screens to help users go back instead of exiting the app and restarting again. This would improve efficiency and not make users frustrated. For the share media screen, I will remove the white background for some of the apps to make it look cleaner and visually appealing to the user's eye.
 
