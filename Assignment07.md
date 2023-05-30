@@ -28,5 +28,10 @@ Here is the final [prototype](https://www.figma.com/proto/zk5Wfaqx0rUgu1ntqOQqnz
 
 ## Feedback
 
-Cognitive Walkthrough
+Durig the Cognitive Walkthrough, this is what my peers mentioned:
+
+1. "Many screens need the "back" button or other exists to help users go back to the previous page or homepage if they want to change any avatar settings or if they want to restart". 
+
+
+2. "Many screens need specific content. Everything should look like a "real" app, which includes comprehensive content, instead of black "winners," "opponents," or "backgrounds"'
 
