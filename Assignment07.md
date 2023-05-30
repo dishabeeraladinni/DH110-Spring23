@@ -30,8 +30,7 @@ Here is the final [prototype](https://www.figma.com/proto/zk5Wfaqx0rUgu1ntqOQqnz
 
 Durig the Cognitive Walkthrough, this is what my peers mentioned:
 
-1. "Many screens need the "back" button or other exists to help users go back to the previous page or homepage if they want to change any avatar settings or if they want to restart". 
-
+1. "Many screens need the "back" button or other exists to help users go back to the previous page or homepage if they want to change any avatar settings or if they want to restart". "Users may feel lost trying to get back to the homepage or quitting a game."
 
 2. "Many screens need specific content. Everything should look like a "real" app, which includes comprehensive content, instead of black "winners," "opponents," or "backgrounds"'
 
@@ -41,5 +40,5 @@ Durig the Cognitive Walkthrough, this is what my peers mentioned:
 
 5. "For the purpose of the prototype, theres a lot of focus on avatar building and no way out of it if you change your mind and want to just login/play"
 
-Mainly my protoype didn't include a back button making it not appear as an "app". With this feedback, I would add a back button on all of my screens to help users go back instead of exiting the app and restarting again. This would improve efficiency and not make users frustrated. For the share media screen, I will remove the white background for some of the apps to make it look cleaner and visually appealing to the user's eye. For the selecting music and background, I will provide the options for both categories to make it personalfor the user. 
+Mainly my protoype didn't include a back button making it not appear as an "app". With this feedback, I would add a back button on all of my screens to help users go back instead of exiting the app and restarting again. This would improve efficiency and not make users frustrated. For the share media screen, I will remove the white background for some of the apps to make it look cleaner and visually appealing to the user's eye. For the selecting music and background, I will provide the options for both categories to make it personalfor the user. Additionally to improve efficiency, I would provide another button that would navigate directly to the playing games screen if users already have an account.   
 
