@@ -37,5 +37,7 @@ Durig the Cognitive Walkthrough, this is what my peers mentioned:
 
 3. "The icons of TikTok, twitter, pinterest,whatsapp, and imessage should "remove background"
 
-Mainly my protoype didn't include a back button making it not appear as an "app". With this feedback, I would add a back button on all of my screens to help users go back instead of exiting the app and restarting again. This would improve efficiency and not make users frustrated. For the share media screen, I will remove the white background for some of the apps to make it look cleaner and visually appealing to the user's eye.
+4. "What music and what backgrounds should be specific"
+
+Mainly my protoype didn't include a back button making it not appear as an "app". With this feedback, I would add a back button on all of my screens to help users go back instead of exiting the app and restarting again. This would improve efficiency and not make users frustrated. For the share media screen, I will remove the white background for some of the apps to make it look cleaner and visually appealing to the user's eye. For the selecting music and background, I will provide the options for both categories to make it personalfor the user. 
 
