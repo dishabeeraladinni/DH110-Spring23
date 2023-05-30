@@ -35,5 +35,5 @@ Durig the Cognitive Walkthrough, this is what my peers mentioned:
 
 2. "Many screens need specific content. Everything should look like a "real" app, which includes comprehensive content, instead of black "winners," "opponents," or "backgrounds"'
 
-Mainly my protoype didn't include a back button making it not appear as an "app". 
+Mainly my protoype didn't include a back button making it not appear as an "app". With this feedback, I would add a back button on all of my screens to help users go back instead of exiting the app and restarting again. This would improve efficiency and not make users frustrated.  
 
