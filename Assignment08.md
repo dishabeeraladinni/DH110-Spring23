@@ -1,6 +1,7 @@
 # GamePigeon UX Redesign
 
 ## UX Project by Disha Beeraladinni
+This project, conducted through the course Digital Humanities 110 in Spring 2023 at UCLA, involved redesigning GamePigeon to be more user-friendly for all levels of tech users using research and design process: heuristic analysis, usability testing, contextual inquiry and user research to designing and testing my own prototype on Figma.
 
 ###  Clear design statement: 
 
