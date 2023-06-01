@@ -5,7 +5,7 @@
 Introduction: This project, conducted through the course Digital Humanities 110 in Spring 2023 at UCLA, involved redesigning GamePigeon to be more user-friendly for all levels of tech users using research and design process: heuristic analysis, usability testing, contextual inquiry and user research to designing and testing my own prototype on Figma.
 
 ###  Clear design statement: 
-
+The design of the project support users in being able to connect with family and friends by playing games. Specifically, a variety of games that facilitate connection and a greater sense of belonging of love. By playing these games online, it allows users to connect and play games with their friends that creates memories, even if they are not physically in the same location
 
 ### Competitor analysis [assignment01 & 02]:
 Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
