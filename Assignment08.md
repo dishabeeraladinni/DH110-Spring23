@@ -1,6 +1,6 @@
-# Project Title
+# GamePigeon UX Redesign
 
-## Disha Beeraladinni
+## UX Project by Disha Beeraladinni
 
 ###  Clear design statement: 
 
