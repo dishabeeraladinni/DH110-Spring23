@@ -24,6 +24,8 @@ Summary and link to the sketches (may contains the multiple versions and evaluat
 ### High-fidelity prototype (functional/interactive prototype, assignment08)
 Summary statement and link to or an embedded prototype
 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fzk5Wfaqx0rUgu1ntqOQqnz%2Fhigh-fidelity-prototype%3Ftype%3Ddesign%26node-id%3D9-126%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26starting-point-node-id%3D9%253A126%26show-proto-sidebar%3D1" allowfullscreen></iframe>
+
 ### Optional evaluation and revision history 
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 
