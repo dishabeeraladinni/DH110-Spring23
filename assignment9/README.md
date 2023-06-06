@@ -7,8 +7,8 @@ Introduction: This project, conducted through the course Digital Humanities 110 
 ###  Clear design statement: 
 The design of the project support users in being able to connect with family and friends by playing games. Specifically, a variety of games that facilitate connection and a greater sense of belonging of love. By playing these games online, it allows users to connect and play games with their friends that creates memories, even if they are not physically in the same location. 
 
-### Competitor analysis:
-In order to reach my design statement, I was thinking of resdesigning the applications: Heads Up and Whatsaap, to develop a more connected feeling for users. However, Whatsaap already being a huge platform for connecting family/friends through messaging, video calling, and audio calling; there leaves little room to redesign and implement any updates for satisfactory user experience. On the other hand, Heads Up is one of the games that allow users to stay connected and have fun with each other but requires everyone to be in the same location. With this analysis and heuristic evaluation, I decided to redesign GamePigeon where people of all backgrounds and ages as well as technical levels have the chance to play games with the click of a text button. Here is a snapshot of my heuristic evaluation comparing Heads Up vs Whatsaap and can read more [here](https://github.com/dishabeeraladinni/DH110-Spring23/blob/main/Assignment01.md):
+### Competitor analysis and Contextual Inquiry:
+In order to reach my design statement, I was thinking of resdesigning the applications: Heads Up and Whatsaap, to develop a more connected feeling for users. However, Whatsaap already being a huge platform for connecting family/friends through messaging, video calling, and audio calling; there leaves little room to redesign and implement any updates for satisfactory user experience. On the other hand, Heads Up is one of the games that allow users to stay connected and have fun with each other but requires everyone to be in the same location. With this analysis and heuristic evaluation, I decided to redesign GamePigeon where people of all backgrounds and ages as well as technical levels have the chance to play games with the click of a text button. Here is a snapshot of my heuristic evaluation comparing Heads Up vs Whatsaap, and can read more [here](https://github.com/dishabeeraladinni/DH110-Spring23/blob/main/Assignment01.md):
 
 Heads Up:
 
@@ -41,10 +41,13 @@ Whatsaap:
 |9. Help users recognize, diagnose, and recover from errors: Error messages/problems should be expressed and suggest a solution to solve them  | Good: Always asks users to provide feedback after a voice/video call, and will get back to a solution for any expressed error.   | No Improvement: This is helpful for WhatsApp as they can make more edits/versions based on the feedback.              |
 |10. Help and documentation: Provide clear instructions to help users navigating the app  | Good: Any new features on the app are taught/released on the status feature of the app                   | No Impprovement: This is helpful as users are given a tutorial in navigating any new features and allows to watch them at the user's pace.       |
 
-
-Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
-
 ### User research [contextual inquiry, assignment04]:
+After the heuristic evaluation and concluded my project to be on the redesigning of GamePigeon, I conducted a contextual inquiry on it. It included a combination of two methods: overt observation: participatory interaction and interview. 
+The two activities were: 
+Activity One: Finding a game on GamePigeon: I asked the user how they would approach in selecting a game to play; what kind of details do they consider?
+
+Activity Two: Playing the game with an opponent: I asked the user to play a game with their opponent, and how they felt after being able to text a game to their friend/family. During this activity, the opponent the user was playing against was me as a choice of convenience for the user.
+
 Summary and link to your assignment folder
 
 ### UX storytelling [persona+scenario, assignment05]
