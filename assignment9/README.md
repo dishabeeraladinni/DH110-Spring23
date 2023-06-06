@@ -60,7 +60,7 @@ Sarah:
 James:
 ![james](james.png)
 
-With both of these personas, I wished to improve two features that GamePigeon doesn't offer: customization and social features. Being able to customize your own avatar, game background music, and game backdrop allows users to make the app more personalized. 
+With both of these personas, I wished to improve two features that GamePigeon doesn't offer: customization and social features. Being able to customize your own avatar, game background music, and game backdrop allows users to make the app more personalized. To read more about my UX storytelling, click [here](https://github.com/dishabeeraladinni/DH110-Spring23/blob/main/Assignment04.md)
 
 ### Wireframe and graphic design element variation [assignment06 + part of 07]
 
