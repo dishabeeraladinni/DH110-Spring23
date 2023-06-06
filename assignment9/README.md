@@ -44,6 +44,7 @@ Whatsaap:
 ### User research [contextual inquiry, assignment04]:
 After the heuristic evaluation and concluded my project to be on the redesigning of GamePigeon, I conducted a contextual inquiry on it. It included a combination of two methods: overt observation: participatory interaction and interview. 
 The two activities were: 
+
 Activity One: Finding a game on GamePigeon: I asked the user how they would approach in selecting a game to play; what kind of details do they consider?
 
 Activity Two: Playing the game with an opponent: I asked the user to play a game with their opponent, and how they felt after being able to text a game to their friend/family. During this activity, the opponent the user was playing against was me as a choice of convenience for the user.
