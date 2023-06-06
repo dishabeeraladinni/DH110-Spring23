@@ -49,6 +49,8 @@ Activity One: Finding a game on GamePigeon: I asked the user how they would appr
 
 Activity Two: Playing the game with an opponent: I asked the user to play a game with their opponent, and how they felt after being able to text a game to their friend/family. During this activity, the opponent the user was playing against was me as a choice of convenience for the user.
 
+After these activities were conducted on zoom alongside an interview, my participant mentioned how the games on the application "opened up a new perspective" and "provides a fun way to take a break from reality". To read more, here is a [link](https://github.com/dishabeeraladinni/DH110-Spring23/blob/main/Assignment03.md) to the contextual inquiry. 
+
 Summary and link to your assignment folder
 
 ### UX storytelling [persona+scenario, assignment05]
