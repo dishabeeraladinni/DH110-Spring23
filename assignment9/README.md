@@ -97,7 +97,9 @@ After a cognitive walkthrough with my peers and taking into consideration their 
 
 
 
-Conclusion: what did you learn throughout the process?
+Conclusion: 
+
+This project marked my initial foray into user research and design. Considering the users' perspectives was not limited to the final stages; it commenced with being mindful of the heuristic evaluation, survey creation, usability testing, contextual inquiry, low-fidelity prototype, high-fidelity prototype, cognitive walkthrough, and the final prototype. It carried on by comprehending their requirements, obstacles, and objectives during the UX storytelling phase and persevered throughout the design process, encompassing considerations like button size and design interface. 
 
 
 
