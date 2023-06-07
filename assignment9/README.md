@@ -1,4 +1,3 @@
- _config.yml.
 # GamePigeon UX Redesign
 
 ## UX Project by Disha Beeraladinni
