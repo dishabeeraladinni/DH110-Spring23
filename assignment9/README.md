@@ -70,8 +70,11 @@ To further implement mh design statement, I created a low-fidelity prototype tha
 ![wireframe3](wireframe3.png)
 ![wireframe4](wireframe4.png)
 
+Here is the wireflow:
+
+
 ### High-fidelity prototype (functional/interactive prototype, assignment08)
-Summary statement and link to or an embedded prototype
+After a cognitive walkthrough with my peers and taking into consideration their remarks, here is the final version of the prototype:
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fzk5Wfaqx0rUgu1ntqOQqnz%2Fhigh-fidelity-prototype%3Ftype%3Ddesign%26node-id%3D9-126%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D9%253A126" allowfullscreen></iframe>
 
