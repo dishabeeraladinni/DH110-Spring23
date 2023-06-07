@@ -81,6 +81,7 @@ Here is the wireflow:
 To read more about my low-fidelity protoype and the tasks Sarah and James would take, click [here](https://github.com/dishabeeraladinni/DH110-Spring23/blob/main/Assignment05.md)
 
 Interface Design:
+
 From there, in order to design the screens and implement an effective interface design, I played around the features in Figma. This included a typographic variation, shape variation and color palette. To see the different kinds of fonts, header size, shape size and colors, click [here](https://github.com/dishabeeraladinni/DH110-Spring23/blob/main/Assignment06.md). For my screen design, I started out first with the sign up/login page as it will be the first page in the interface once users download the app. It is important for the sign in/login page to attract a users since most wesbites/apps ask a lot of information during this process which demotivates the user to continue. Includuing a simple and minimilatic interface would help this. After creating my final design, I conducted an impression test to analyze the first impression within five seconds. 
 
 ### High-fidelity prototype (functional/interactive prototype, assignment08)
