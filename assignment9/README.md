@@ -94,7 +94,7 @@ After a cognitive walkthrough with my peers and taking into consideration their 
 
 ### Pitch video 
 
-Here is a walkthrough of my project and prototype. Clink [here](https://photos.app.goo.gl/CxtWP3E8sifNLQph7) for the video
+Here is a walkthrough of my project and prototype. Clink [here](https://photos.app.goo.gl/CxtWP3E8sifNLQph7) for the video.
 
 
 
