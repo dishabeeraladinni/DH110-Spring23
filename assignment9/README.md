@@ -84,10 +84,10 @@ Interface Design:
 
 From there, in order to design the screens and implement an effective interface design, I played around the features in Figma. This included a typographic variation, shape variation and color palette. To see the different kinds of fonts, header size, shape size and colors, click [here](https://github.com/dishabeeraladinni/DH110-Spring23/blob/main/Assignment06.md). For my screen design, I started out first with the sign up/login page as it will be the first page in the interface once users download the app. It is important for the sign in/login page to attract a users since most wesbites/apps ask a lot of information during this process which demotivates the user to continue. Includuing a simple and minimilatic interface would help this. After creating my final design, I conducted an impression test to analyze the first impression within five seconds. 
 
-### High-fidelity prototype (functional/interactive prototype, assignment08)
+### High-fidelity prototype:
 To bring my design statement to life, I created a high-fidelity prototype using Figma. This helped me envision what the end product might look like and provide the improvements the app needed which can be tested by users. After creating the high-fidelity prototype, I performed a cognitive walkthrough with my peers. Click [here](https://github.com/dishabeeraladinni/DH110-Spring23/blob/main/Assignment07.md) to read more.
 
-### The Prototype
+### The Prototype:
 After a cognitive walkthrough with my peers and taking into consideration their remarks, here is the final version of the prototype:
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fzk5Wfaqx0rUgu1ntqOQqnz%2Fhigh-fidelity-prototype%3Ftype%3Ddesign%26node-id%3D9-126%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D9%253A126" allowfullscreen></iframe>
