@@ -99,7 +99,9 @@ After a cognitive walkthrough with my peers and taking into consideration their 
 
 Conclusion: 
 
-This project marked my initial foray into user research and design. Considering the users' perspectives was not limited to the final stages; it commenced with being mindful of the heuristic evaluation, survey creation, usability testing, contextual inquiry, low-fidelity prototype, high-fidelity prototype, cognitive walkthrough, and the final prototype. It carried on by comprehending their requirements, obstacles, and objectives during the UX storytelling phase and persevered throughout the design process, encompassing considerations like button size and design interface. 
+This project marked my initial foray into user research and design. Considering the users' perspectives was not limited to the final stages; it commenced with being mindful of the heuristic evaluation, survey creation, usability testing, contextual inquiry, low-fidelity prototype, high-fidelity prototype, cognitive walkthrough, and the final prototype. It carried on by comprehending their requirements, obstacles, and objectives during the UX storytelling phase and persevered throughout the design process, encompassing considerations like button size and design interface. This was also my first time using Figma and learning how to navigate its features at first was a challenge but as the project comes to end, I have found myself very comfortable using this software. 
+
+Given the opportunity for a do-over or additional time, I would have gladly conducted more contextual inquiries and incorporated user testing into my website to gather feedback from a wider range of users. 
 
 
 
