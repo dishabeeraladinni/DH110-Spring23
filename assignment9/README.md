@@ -51,7 +51,7 @@ Activity Two: Playing the game with an opponent: I asked the user to play a game
 
 After these activities were conducted on zoom alongside an interview, my participant mentioned how the games on the application "opened up a new perspective" and "provides a fun way to take a break from reality". To read more, here is a [link](https://github.com/dishabeeraladinni/DH110-Spring23/blob/main/Assignment03.md) to the contextual inquiry. 
 
-### UX storytelling [persona+scenario, assignment05]
+### UX storytelling:
 The purpose of UX storytelling is to create a narrative that helps stakeholders, designers, and developers understand the user's experience with a product or service. By creating personas, empathy maps and scenarios, I was able to envision a user's journey through the app and coming up with potential scenarios that users might want to implement these improvments. Here are Sarah's and Jame's personas. 
 
 Sarah:
@@ -73,6 +73,9 @@ To further implement mh design statement, I created a low-fidelity prototype tha
 Here is the wireflow:
 
 
+
+
+To read more about my low-fidelity protoype and the tasks Sarah and James would take, click [here](https://github.com/dishabeeraladinni/DH110-Spring23/blob/main/Assignment05.md)
 ### High-fidelity prototype (functional/interactive prototype, assignment08)
 
 
@@ -82,5 +85,13 @@ After a cognitive walkthrough with my peers and taking into consideration their 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fzk5Wfaqx0rUgu1ntqOQqnz%2Fhigh-fidelity-prototype%3Ftype%3Ddesign%26node-id%3D9-126%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D9%253A126" allowfullscreen></iframe>
 
 ### Pitch video 
+
+
+
+
 Conclusion: what did you learn throughout the process?
+
+
+
+
 
