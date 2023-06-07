@@ -94,6 +94,7 @@ After a cognitive walkthrough with my peers and taking into consideration their 
 
 ### Pitch video 
 
+Here is a walkthrough of my project and prototype. Clink here for the video
 
 
 
