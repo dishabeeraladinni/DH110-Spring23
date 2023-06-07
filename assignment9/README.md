@@ -62,16 +62,13 @@ James:
 
 With both of these personas, I wished to improve two features that GamePigeon doesn't offer: customization and social features. Being able to customize your own avatar, game background music, and game backdrop allows users to make the app more personalized. To read more about my UX storytelling and seeing the respective journey/empathy maps, click [here](https://github.com/dishabeeraladinni/DH110-Spring23/blob/main/Assignment04.md)
 
-### Wireframe and graphic design element variation [assignment06 + part of 07]
+### Low-fidelity prototype, Wireframe and graphic design element variation 
 To further implement mh design statement, I created a low-fidelity prototype that allows me to test the features my design and make any improvements. By creating a physical or digital prototype, designers can test and validate their design concepts with users, get feedback, and improve their designs before moving on to high-fidelity prototyping and development. Here is the wireframe of my low-fidelity prototype:
 
 ![wireframe1](wireframe1.png)
 ![wireframe2](wireframe2.png)
 ![wireframe3](wireframe3.png)
 ![wireframe4](wireframe4.png)
-
-### Low-fidelity prototype (wireflow, assignment06)
-Summary and link to the sketches (may contains the multiple versions and evaluation history)
 
 ### High-fidelity prototype (functional/interactive prototype, assignment08)
 Summary statement and link to or an embedded prototype
